@@ -1,13 +1,13 @@
 # Project Name:
 # Advanced House Price Regression
 
-** Problem Statement:
+## Problem Statement :
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them at a higher price. The company wants to know
 Which variables are significant in predicting the price of a house, and
 How well those variables describe the price of a house. Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the American market.
 
 
-** Business Goal :
+## Business Goal :
 Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 Determine the optimal value of lambda for ridge and lasso regression.
 This model will then be used by the management to understand how exactly the prices vary with the variables
