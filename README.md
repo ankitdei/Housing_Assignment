@@ -14,6 +14,13 @@ This model will then be used by the management to understand how exactly the pri
 They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
 The model will be a good way for the management to understand the pricing dynamics of a new market.
 
+## Technologies Used
+* numpy
+* pandas
+* matplotlib.pyplot
+* seaborn
+* sklearn
+
 **By:
 Ankit Bhatnagar**
 
